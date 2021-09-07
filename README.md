@@ -2,7 +2,7 @@
 
 Member1:
 
-Member2:
+Member2: Zach Curran
 
 Member3:
 
