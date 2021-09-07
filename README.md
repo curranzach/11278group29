@@ -1,6 +1,6 @@
 # 11278group29
 
-Member1:
+Member1: Brant Norris
 
 Member2:
 
