@@ -4,11 +4,11 @@ body {
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
     background-color: rgb(245, 245, 245);
+    overflow: hidden;
 }
 
 .container{
-  margin: 80px auto 0 auto;
-  max-width: 1200px;
+  margin: 80px 30px 0 30px;
 }
 
 a{
