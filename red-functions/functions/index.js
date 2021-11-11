@@ -3,13 +3,15 @@ const functions = require("firebase-functions");
 const express = require('express');
 const app = express();
 // Bring in handlers
-const {getDemo} = require('./handlers/test');
-const {postDemo} = require('./handlers/test');
+const {getDemo, postDemo} = require('./handlers/test');
+const {updateWind, updateSolar} = require('./handlers/weather');
 
 // ==================== ROUTES ====================
 // Demo routes
     // get request
 app.get('/getDemo', getDemo);
+app.get('/updateWind', updateWind);
+app.get('/updateSolar', updateSolar);
     // post request
 app.post('/postDemo', postDemo);
 
