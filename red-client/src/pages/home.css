@@ -1,0 +1,16 @@
+#parent{ 
+    display: flex; 
+  } 
+  .col{ 
+    color: white; 
+    height: 780px; 
+    margin-left: 5%;
+    flex: 92%; 
+  } 
+  .col:nth-child(2){ 
+    background-color:#789997; 
+    padding: 10px;
+    margin-right: 10%;
+    margin-left: 0%;
+    flex: 8%;
+  } 
