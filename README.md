@@ -31,6 +31,12 @@ Easy export of data to user
 CONFIGURATION
 =======================================================
 
+API Keys
+=======================================================
+Google Maps		https://developers.google.com/maps
+Wind Toolkit Data API		https://developer.nrel.gov/docs/wind/wind-toolkit/wtk-download/
+Historical Weather API		https://openweathermap.org/history
+
 HISTORY
 ========================================================
 Proposed on September 8th, 2021
