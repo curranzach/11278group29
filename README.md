@@ -19,7 +19,7 @@ Aaron Upchurch
 
 ABOUT RENEWABLE ENERGY DASHBOARD
 -------------------------------------------------
-Our project is an online dashboard collects and analyzes from multiple geographical and climatic datasets to determine the optimal locations for the construction of new renewable enrgy plants.
+Our project is an online dashboard that collects and analyzes information from multiple geographical and climatic datasets to determine the optimal locations for the construction of new renewable enrgy plants.
 
 FEATURES
 -------------------------------------------------
