@@ -12,7 +12,7 @@ class Navbar extends Component {
                     <Fragment>
                     <img src="logo.png" alt="Kitten" height="50" width="50" />
                     <Typography color="primary">__</Typography>
-                    <Typography color="inherit">RENEWABLE ENERGY DASHBOARD</Typography>
+                    <Typography color="secondary">RENEWABLE ENERGY DASHBOARD</Typography>
                     </Fragment>
                 </Toolbar>
             </AppBar>
