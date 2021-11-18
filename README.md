@@ -1,12 +1,45 @@
-# 11278group29
+THE RENEWABLE ENERGY DASHBOARD 
+=================================================
+ 
+GROUP MEMBERS
+-------------------------------------------------
+Group #11278group29
 
-Member1: Brant Norris
+Brant Norris
+  + Product Manager
+  
+Zach Curran
+  + Scrum Master
 
-Member2: Zach Curran
+Dylan VanStaden
+  + Developer
 
-Member3: Dylan VanStaden
+Aaron Upchurch
+  + Developer
 
-Member4: Aaron Upchurch
+ABOUT RENEWABLE ENERGY DASHBOARD
+-------------------------------------------------
+Our project is an online dashboard that collects and analyzes information from multiple geographical and climatic datasets to determine the optimal locations for the construction of new renewable enrgy plants.
+
+FEATURES
+-------------------------------------------------
+Google Maps API Interface
+Color based information overlay
+Real time user data controls
+Easy export of data to user
+
+CONFIGURATION
+-------------------------------------------------
+
+API Keys
+-------------------------------------------------
+Google Maps		https://developers.google.com/maps  
+Wind Toolkit Data API		https://developer.nrel.gov/docs/wind/wind-toolkit/wtk-download/  
+Historical Weather API		https://openweathermap.org/history  
+
+HISTORY
+-------------------------------------------------
+Proposed on September 8th, 2021
+Completed on November 14th, 2021
 
 
-Info: Our project is going to be a Renewable Energy Dashboard that will feature data about renewable energy sources and potential development sites. The dashboard will allow users to filter data by area, etc.
