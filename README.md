@@ -30,6 +30,7 @@ Easy export of data to user
 
 CONFIGURATION
 -------------------------------------------------
+1. Go to https://renewable-energy-dash.web.app/
 
 API Keys
 -------------------------------------------------
