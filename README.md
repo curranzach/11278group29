@@ -33,7 +33,7 @@ CONFIGURATION
 This project was bootstrapped with Create React App
 
 Non Local Build
-   1. Go to https://renewable-energy-dash.web.app/
+Go to https://renewable-energy-dash.web.app/
 
 Available Scripts
 In the project directory, you can run:
