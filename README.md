@@ -33,9 +33,11 @@ CONFIGURATION
 This project was bootstrapped with Create React App
 
 **Non Local Build**
+
 Go to https://renewable-energy-dash.web.app/
 
 **Local Bulid**
+
 Available Scripts
 In the red-client directory, you can run:
 
