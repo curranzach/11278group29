@@ -65,6 +65,7 @@ APIs USED
 Google Maps		https://developers.google.com/maps  
 Wind Toolkit Data API		https://developer.nrel.gov/docs/wind/wind-toolkit/wtk-download/  
 Historical Weather API		https://openweathermap.org/history  
+Credit to Nicolas Mollet’s “Map Icons Collection” for map icons
 
 HISTORY
 -------------------------------------------------
