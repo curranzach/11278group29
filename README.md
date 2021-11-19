@@ -32,11 +32,12 @@ CONFIGURATION
 -------------------------------------------------
 This project was bootstrapped with Create React App
 
-Non Local Build
+**Non Local Build**
 Go to https://renewable-energy-dash.web.app/
 
+**Local Bulid**
 Available Scripts
-In the project directory, you can run:
+In the red-client directory, you can run:
 
 npm start
 Runs the app in the development mode.
