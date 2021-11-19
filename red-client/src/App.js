@@ -7,17 +7,21 @@ import home from './pages/home'
 // MUI
 import { ThemeProvider as MuiThemeProvider } from '@material-ui/core/styles';
 import {createMuiTheme} from '@material-ui/core/styles';
+import axios from 'axios';
 
 const theme = createMuiTheme({
   palette: {
     primary: {
-      main: '#ecfffe',
+      main: '#789997',
+      contrastText: '#000000'
     },
     secondary: {
-      main: '#ffffff',
+      main: '#ffffff'
     },
   }
 });
+
+axios.defaults.baseURL = "https://us-central1-renewable-energy-dash.cloudfunctions.net/api";
 
 function App() {
   return (

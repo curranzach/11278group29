@@ -3,14 +3,30 @@
   } 
   .col{ 
     color: white; 
-    height: 780px; 
-    margin-left: 5%;
-    flex: 92%; 
+    height: 680px; 
+    margin-left: 15%;
+    flex: 60%;
+    position: absolute;
   } 
   .col:nth-child(2){ 
     background-color:#789997; 
     padding: 10px;
-    margin-right: 10%;
-    margin-left: 0%;
-    flex: 8%;
+    margin-right: 0%;
+    margin-left: 10%;
+    flex: 15%;
+    width: 10%;
+    position: absolute;
   } 
+
+  .info {
+    flex: 100%;
+    padding-left: 5%;
+    padding-top: 1%;
+    padding-bottom: 2%;
+    margin-top: 40%;
+    background: #3f5250;
+  }
+
+  .gm-style-mtc {
+    display: none;
+  }
