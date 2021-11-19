@@ -19,14 +19,15 @@ Aaron Upchurch
 
 ABOUT RENEWABLE ENERGY DASHBOARD
 -------------------------------------------------
-Our project is an online dashboard that collects and analyzes information from multiple geographical and climatic datasets to determine the optimal locations for the construction of new renewable enrgy plants.
+Our project is an online dashboard that collects and analyzes information from multiple geographical and climatic datasets to determine the optimal locations for the construction of new renewable energy plants.
 
 FEATURES
 -------------------------------------------------
 Google Maps API Interface
+
 Color based information overlay
+
 Real time user data controls
-Easy export of data to user
 
 CONFIGURATION
 -------------------------------------------------
@@ -59,11 +60,12 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.
 Your app is ready to be deployed!
 
-API Keys
+APIs USED
 -------------------------------------------------
 Google Maps		https://developers.google.com/maps  
 Wind Toolkit Data API		https://developer.nrel.gov/docs/wind/wind-toolkit/wtk-download/  
 Historical Weather API		https://openweathermap.org/history  
+Credit to Nicolas Mollet’s “Map Icons Collection” for map icons
 
 HISTORY
 -------------------------------------------------
