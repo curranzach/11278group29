@@ -19,7 +19,13 @@ Aaron Upchurch
 
 ABOUT RENEWABLE ENERGY DASHBOARD
 -------------------------------------------------
+**Overview**
+
 Our project is an online dashboard that collects and analyzes information from multiple geographical and climatic datasets to determine the optimal locations for the construction of new renewable energy plants.
+
+**Vision Statement**
+
+We want our product to leverage historical geographic and weather data to determine suitable locations for new sources of renewable energy, optimize power generation, and reduce areas of inefficient energy usage.
 
 FEATURES
 -------------------------------------------------
@@ -59,6 +65,21 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.
 Your app is ready to be deployed!
+
+ARCHITECTURAL MODEL - LAYERED
+-------------------------------------------------
+  + Web Browser
+  + User Interface Management (UI Layer)
+  + Information Retrieval
+  + Basic Serviced (Services Layer)
+  + Database (Data Layer)
+
+SYSTEM CONTEXT MODEL
+-------------------------------------------------
+This application uses Google Firebase to perform cloud functions with data from Firestore to fulfill requests from a React UI which utilizes Google Maps API, as described below:
+
+Database (Cloud Firestore) <--> Cloud Functions <--> Google Firebase <--> UI (React) <-- Google Maps API
+
 
 APIs USED
 -------------------------------------------------
